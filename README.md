@@ -15,7 +15,7 @@ String[] Array;
 ### _Спринт 3_
 Коллекции и Git? Беру два...  
 ```
-import java.unit.ArrayList;
+import java.until.ArrayList;
 ```
   
 #### ~~Что было дальше?~~  
